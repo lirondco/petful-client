@@ -12,9 +12,9 @@ We are a pet shelter that operates on a FIFO model. We only have cats and dogs i
 
 ### Technology Used
 
-ReactJS
-NodeJS
-JavaScript
-CSS
-HTML
-JSX
+* ReactJS
+* NodeJS
+* JavaScript
+* CSS
+* HTML
+* JSX
