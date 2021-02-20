@@ -1,0 +1,25 @@
+.name_submit {
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+}
+
+.people {
+    padding: 2%;
+}
+
+.people_list {
+    padding: 0%;
+}
+
+h3 {
+    padding: 2%;
+}
+
+input {
+    width: max-content;
+}
+
+button {
+    width: max-content;
+}

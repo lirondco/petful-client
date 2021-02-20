@@ -1,0 +1,19 @@
+.pets {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+li {
+    list-style: none;
+    padding: 1%;
+    text-align: left;
+}
+
+.pet_image {
+    size: 100%;
+}
